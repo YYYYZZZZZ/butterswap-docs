@@ -1,4 +1,4 @@
 # ☎️ Contact
 
-#### ✉️ Email: hi@butterswap
+#### ✉️ Email: hi@butterswap.me
 
