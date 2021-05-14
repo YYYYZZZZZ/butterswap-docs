@@ -1,4 +1,5 @@
 # Table of contents
 
-* [❓FAQ](README.md)
+* [❓ FAQ](README.md)
+* [☎️ Contact](contact.md)
 

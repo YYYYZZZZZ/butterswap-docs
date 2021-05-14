@@ -1,4 +1,4 @@
-# ❓FAQ
+# ❓ FAQ
 
 ## How do I set up my wallet on Heco Chain?
 
