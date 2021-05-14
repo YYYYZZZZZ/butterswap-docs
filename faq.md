@@ -1,6 +1,8 @@
 # ❓ FAQ
 
-## How do I set up my wallet on Heco Chain?
+## How do I connect to my wallet?
+
+⚠️⚠️⚠️ Currently only Heco Chain is supported ❗️❗️❗️
 
 #### Trust Wallet
 
