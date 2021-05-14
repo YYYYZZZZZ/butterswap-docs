@@ -1,5 +1,6 @@
 # Table of contents
 
-* [❓ FAQ](README.md)
+* [💡 ButterSwap Intro](README.md)
+* [❓ FAQ](faq.md)
 * [☎️ Contact](contact.md)
 
