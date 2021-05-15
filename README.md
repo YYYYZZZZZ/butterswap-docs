@@ -1,28 +1,14 @@
-# FAQ
+# 💡 ButterSwap Intro
 
-## How do I set up my wallet on Heco Chain?
+🍞 ButterSwap uses fully open-source smart contracts, and implements the full stack of Automatic Market Making \(AMM\) system, to provide a one-stop liquidity mining platform for crypto investors. 
 
-#### Trust Wallet
+Users can add token pairs to liquidity pools and obtain the corresponding LP tokens, which then can be used to mine the BUTTER tokens. BUTTER is the platform token for ButterSwap and can only be mined in ButterSwap via LP mining \(a.k.a. Farming\) and BUTTER staking.  For fairness considerations, BUTTER will not be minted before genesis mining, hence all investors get an equal chance of getting BUTTER.
 
-When you go into the dAPP in the top-right corner you can see the different blockchains available, click on it then choose Heco Chain Mainnet.
+ButterSwap is a fully functional and independent DEX, and 0.3% transaction fee will be charged for each swap transaction. 0.25% goes to LP holders and 0.05% will be used to buy back and burn BUTTER.
 
-#### MetaMask
+BUTTER staking provides a place to earn more BUTTER by staking BUTTER. In the meanwhile, equal amount of reward token CREAM will be offered to the user, and staking CREAM in the "Pools"  section can earn various partner tokens in the ButterSwap eco-system.
 
-Create a custom RPC with the following:
+BUTTER will also be used for community decentralized autonomous organization \(DAO\). BUTTER holders can vote to decide new token listing, reward reduction, system development, etc.
 
-Network Name: HECO Mainnet
-
-New RPC URL: [https://http-mainnet-node.huobichain.com](https://http-mainnet-node.huobichain.com)
-
-ChainID: 128
-
-Symbol: HT
-
-Block Explorer URL: [https://hecoinfo.com](https://hecoinfo.com)
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+Currently, ButterSwap only supports Heco Chain. In the near future, BSC, ETH and other chains will be supported to seamlessly integrate assets across various chains.
 
