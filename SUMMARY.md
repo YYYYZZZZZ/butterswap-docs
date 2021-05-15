@@ -10,3 +10,7 @@
 * [🧁 CREAM Pools](products/cream-pools/README.md)
   * [Apply for Partnership](products/cream-pools/apply-for-partnership.md)
 
+---
+
+* [🐮 Farms](farms.md)
+
