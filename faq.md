@@ -1,5 +1,15 @@
 # ❓ FAQ
 
+## Is it safe to use ButterSwap?
+
+Absolutely!
+
+First, every operation related with your crypto assets is carried out via well-tested and deployed smart contracts. There is no way for anything \(including ButterSwap developer team\) to manipulate your assets.
+
+Second, all smart contract source code is available in the [GitHub repo](https://github.com/butter-swap). Anyone is welcome to review the source code and compare it with the deployed version on the blockchain.
+
+Third, our smart contract source code has been audited by the prestigious security company [KNOWNSEC](https://www.yunaq.com), which was invested by the Tencent Group. Before our launch, they have helped us tested and improved the security mechanisms.
+
 ## How do I connect to my wallet?
 
 ⚠️⚠️⚠️ Currently only Heco Chain is supported ❗️❗️❗️
@@ -33,6 +43,8 @@ When you open TokenPocket, in the "Assets" section, in the top-left corner you c
 ## If I participate in the Farms and the CREAM pools, what is the locking period for my assets?
 
 There is no locking period for any of your assets. You may deposit or withdraw at any time. Everything is controlled automatically by the deployed smart contracts. 
+
+
 
 
 
