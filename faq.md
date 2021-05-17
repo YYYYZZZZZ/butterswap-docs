@@ -44,6 +44,10 @@ When you open TokenPocket, in the "Assets" section, in the top-left corner you c
 
 There is no locking period for any of your assets. You may deposit or withdraw at any time. Everything is controlled automatically by the deployed smart contracts. 
 
+## Do I need to register any account to use ButterSwap?
+
+No. All you need is a crypto wallet. Currently, we only support wallets on Heco Chain. As long as you connect your wallet with ButterSwap site, no account registration is needed.
+
 
 
 
