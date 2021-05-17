@@ -30,9 +30,13 @@ Block Explorer URL: [https://hecoinfo.com](https://hecoinfo.com)
 
 When you open TokenPocket, in the "Assets" section, in the top-left corner you can see the different wallets on different blockchains available, click on the wallet on Heco Chain.
 
-## Have you had a chance to answer the previous question?
+## If I participate in the Farms and the CREAM pools, what is the locking period for my assets?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+There is no locking period for any of your assets. You may deposit or withdraw at any time. Everything is controlled automatically by the deployed smart contracts. 
+
+
+
+
 
 
 
