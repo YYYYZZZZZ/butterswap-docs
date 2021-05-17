@@ -8,6 +8,8 @@
 
 When you go into the dAPP in the top-right corner you can see the different blockchains available, click on it then choose Heco Chain Mainnet.
 
+
+
 #### MetaMask
 
 Create a custom RPC with the following:
@@ -21,6 +23,12 @@ ChainID: 128
 Symbol: HT
 
 Block Explorer URL: [https://hecoinfo.com](https://hecoinfo.com)
+
+
+
+#### TokenPocket
+
+When you open TokenPocket, in the "Assets" section, in the top-left corner you can see the different wallets on different blockchains available, click on the wallet on Heco Chain.
 
 ## Have you had a chance to answer the previous question?
 
