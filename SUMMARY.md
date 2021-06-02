@@ -18,4 +18,5 @@
 ## Beginner's Guide
 
 * [💰 How to get BUTTER?](beginners-guide/how-to-get-butter.md)
+* [👨‍🌾‍ How to yield farm?](beginners-guide/how-to-yield-farm.md)
 
