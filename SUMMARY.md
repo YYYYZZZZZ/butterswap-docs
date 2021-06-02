@@ -18,5 +18,6 @@
 ## Beginner's Guide
 
 * [💰 How to get BUTTER?](beginners-guide/how-to-get-butter.md)
-* [👨‍🌾‍ How to yield farm?](beginners-guide/how-to-yield-farm.md)
+* [👨‍🌾‍ How to earn in yield farming?](beginners-guide/how-to-yield-farm.md)
+* [💧 How to earn in CREAM pools?](beginners-guide/how-to-earn-in-cream-pools.md)
 

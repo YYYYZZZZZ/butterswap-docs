@@ -1,2 +1,2 @@
-# 👨‍🌾‍ How to yield farm?
+# 👨‍🌾‍ How to earn in yield farming?
 
