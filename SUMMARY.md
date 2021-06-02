@@ -13,7 +13,7 @@
 
 ## TOKENOMICS
 
-* [BUTTER](tokenomics/butter.md)
+* [🍞 BUTTER](tokenomics/butter.md)
 
 ## Beginner's Guide
 
