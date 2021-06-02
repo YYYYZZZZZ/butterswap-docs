@@ -15,3 +15,7 @@
 
 * [BUTTER](tokenomics/butter.md)
 
+## Beginner's Guide
+
+* [How to get BUTTER?](beginners-guide/how-to-get-butter.md)
+
