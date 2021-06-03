@@ -30,6 +30,8 @@ Click "Connect" and select the corresponding wallet to connect \(TokenPocket in 
 
 ## Step 4 Swap to get BUTTER
 
+a
+
 ## Step 5 Add to BUTTER/USDT liquidity pool to get LP tokens
 
 ## Step 6 Stake LP tokens in the farms to earn BUTTER
