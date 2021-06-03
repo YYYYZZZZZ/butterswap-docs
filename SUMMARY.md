@@ -2,7 +2,7 @@
 
 * [💡 ButterSwap Intro](README.md)
 * [❓ FAQ](faq.md)
-* [🛡 Audit](audit.md)
+* [🔒 Audit](audit.md)
 * [☎️ Contact](contact.md)
 
 ## PRODUCTS
