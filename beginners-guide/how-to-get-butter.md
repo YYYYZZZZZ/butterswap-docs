@@ -54,9 +54,19 @@ Once you've obtained the LP tokens, you are ready to start yield farming in the 
 
 ## Step 7 Stake BUTTER to earn BUTTER and get free CREAM
 
+In the "Pools" section, you stake BUTTER in the first pool to earn BUTTER. For 1 BUTTER you stake, you get 1 CREAM token for free.
+
+![](../.gitbook/assets/qq20210603-183325-2x.png)
+
 ## Step 8 Stake CREAM in the pools to earn partner tokens
 
+In the "Pools" section, in the pools other than the first pool, you can stake your CREAM tokens to earn various partner tokens in the ButterSwap eco-system. 
 
+{% hint style="warning" %}
+Don't transfer or sell any CREAM token. Before you unstake BUTTER, you have to unstake CREAM first. You have to return the same amount of CREAM in order to unstake the same amount of BUTTER. 
+{% endhint %}
+
+![](../.gitbook/assets/qq20210603-183348-2x.png)
 
 
 
