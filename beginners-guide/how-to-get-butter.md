@@ -40,6 +40,10 @@ In the exchange, select from USDT to BUTTER, then you can use the USDT in your w
 
 ## Step 5 Add to BUTTER/USDT liquidity pool to get LP tokens
 
+In the "Liquidity" section, add BUTTER/USDT pair, or other pairs of tokens, such as BUT/USDT, to get LP tokens.
+
+![](../.gitbook/assets/qq20210603-182511-2x.png)
+
 ## Step 6 Stake LP tokens in the farms to earn BUTTER
 
 ## Step 7 Stake BUTTER to earn BUTTER and get free CREAM
