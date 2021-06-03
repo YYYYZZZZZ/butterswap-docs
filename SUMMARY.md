@@ -17,5 +17,5 @@
 
 ## Beginner's Guide
 
-* [💰 How to use ButterSwap?](beginners-guide/how-to-get-butter.md)
+* [💰 How to use ButterSwap?](beginners-guide/how-to-use-butterswap.md)
 
