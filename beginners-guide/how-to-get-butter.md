@@ -12,7 +12,15 @@ You have to deposit some HT into your wallet for gas fee. And then deposit any o
 
 ![](../.gitbook/assets/61256898b01786e593664e8192aca7dd.png)
 
-## Step 2 Open ButterSwap Dapp inside wallet
+## Step 2 Open ButterSwap DApp inside wallet
+
+Go to "Discover" and in the top, type in "butterswap.me" and click "Go to DApp".
+
+![](../.gitbook/assets/714502f6-f1de-47ce-bac6-468f6b0c912c.png)
+
+Click top right corner and click "Star" in the pop up menu, so that you can easily find ButterSwap in "My DApps" section next time.
+
+![](../.gitbook/assets/50253d55-f767-4844-9e33-40c5d8bf68b7.png)
 
 ## Step 3 Connect wallet
 
