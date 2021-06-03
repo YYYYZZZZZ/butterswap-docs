@@ -30,9 +30,13 @@ Click "Connect" and select the corresponding wallet to connect \(TokenPocket in 
 
 ## Step 4 Swap to get BUTTER
 
-Go to 
+Go to "Exchange" section from the left menu
 
 ![](../.gitbook/assets/qq20210603-175013.png)
+
+In the exchange, select from USDT to BUTTER, then you can use the USDT in your wallet to swap BUTTER.
+
+![](../.gitbook/assets/qq20210603-181441-2x.png)
 
 ## Step 5 Add to BUTTER/USDT liquidity pool to get LP tokens
 
