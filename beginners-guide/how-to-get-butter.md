@@ -46,6 +46,12 @@ In the "Liquidity" section, add BUTTER/USDT pair, or other pairs of tokens, such
 
 ## Step 6 Stake LP tokens in the farms to earn BUTTER
 
+Once you've obtained the LP tokens, you are ready to start yield farming in the "Farms" section. Stake your LP tokens to earn BUTTER and harvest or withdraw at any time.
+
+![](../.gitbook/assets/qq20210603-182939-2x.png)
+
+
+
 ## Step 7 Stake BUTTER to earn BUTTER and get free CREAM
 
 ## Step 8 Stake CREAM in the pools to earn partner tokens
