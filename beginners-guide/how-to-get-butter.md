@@ -24,6 +24,10 @@ Click top right corner and click "Star" in the pop up menu, so that you can easi
 
 ## Step 3 Connect wallet
 
+Click "Connect" and select the corresponding wallet to connect \(TokenPocket in this guide\).
+
+![](../.gitbook/assets/889cbec6-e7e3-43c9-a876-2acaef19cae2.png)
+
 ## Step 4 Swap to get BUTTER
 
 ## Step 5 Add to BUTTER/USDT liquidity pool to get LP tokens
