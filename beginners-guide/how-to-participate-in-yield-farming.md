@@ -1,4 +1,4 @@
-# 💸 How to participate in yield farming?
+# 💸 How to participate in BUT-USDT farming?
 
 ButterSwap's genesis mining uses BUT-USDT liquidity provider tokens to farm. So first, you need to own BUT tokens.
 
