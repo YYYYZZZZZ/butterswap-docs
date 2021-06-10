@@ -19,4 +19,5 @@
 ## Beginner's Guide
 
 * [💰 How to use ButterSwap?](beginners-guide/how-to-use-butterswap.md)
+* [💸 How to participate in yield farming?](beginners-guide/how-to-participate-in-yield-farming.md)
 
