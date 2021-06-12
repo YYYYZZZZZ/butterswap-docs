@@ -52,3 +52,13 @@ There is no locking period for any of your assets. You may deposit or withdraw a
 
 No. All you need is a crypto wallet. Currently, we only support wallets on Heco Chain. As long as you connect your wallet with ButterSwap site, no account registration is needed.
 
+
+
+
+
+
+
+
+
+
+
