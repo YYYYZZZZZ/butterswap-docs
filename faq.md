@@ -40,6 +40,10 @@ Block Explorer URL: [https://hecoinfo.com](https://hecoinfo.com)
 
 When you open TokenPocket, in the "Assets" section, in the top-left corner you can see the different wallets on different blockchains available, click on the wallet on Heco Chain.
 
+## Why I can't approve operations?
+
+One possible reason is that you don't have enough HT in your wallet to pay for the gas fee required for the approval operations. Make sure your wallet contains some HT in order to proceed.
+
 ## What is the locking period for my assets?
 
 There is no locking period for any of your assets. You may deposit or withdraw at any time. Everything is controlled automatically by the deployed smart contracts. 
@@ -47,12 +51,4 @@ There is no locking period for any of your assets. You may deposit or withdraw a
 ## Do I need to register any account to use ButterSwap?
 
 No. All you need is a crypto wallet. Currently, we only support wallets on Heco Chain. As long as you connect your wallet with ButterSwap site, no account registration is needed.
-
-
-
-
-
-
-
-
 
