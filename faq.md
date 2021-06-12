@@ -54,11 +54,3 @@ No. All you need is a crypto wallet. Currently, we only support wallets on Heco 
 
 
 
-
-
-
-
-
-
-
-
