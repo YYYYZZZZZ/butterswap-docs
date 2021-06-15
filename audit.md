@@ -8,5 +8,11 @@ Check CertiK audit report online [here](https://www.certik.org/projects/buttersw
 
 ## Knownsec audit
 
-Coming soon.
+Check Knownsec audit report online [here](https://attest.im/attestation/searchResult?qurey=e4ba2a2c50cf4e9da0200c71d4064604) or download the original pdf reports as follows:
+
+{% file src=".gitbook/assets/butterswap-zhi-neng-he-yue-shen-ji-bao-gao-.pdf" %}
+
+{% file src=".gitbook/assets/butterswap-an-quan-shen-ji-zheng-shu-.pdf" %}
+
+
 
