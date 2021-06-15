@@ -8,7 +8,7 @@ First, every operation related with your crypto assets is carried out via well-t
 
 Second, all smart contract source code is available in the [GitHub repo](https://github.com/butter-swap). Anyone is welcome to review the source code and compare it with the deployed version on the blockchain.
 
-Third, our smart contract source code has been audited independently by the prestigious security company [CertiK](https://www.certik.io/) and [KNOWNSEC](https://www.yunaq.com). Before our launch, they have helped us tested and improved the security mechanisms. Refer to the [Audit](audit.md) page for more details.
+Third, our smart contract source code has been audited independently by the prestigious security company [CertiK](https://www.certik.io/) and [KNOWNSEC](https://www.knownsec.com/). Before our launch, they have helped us tested and improved the security mechanisms. Refer to the [Audit](audit.md) page for more details.
 
 ## How do I connect to my wallet?
 
