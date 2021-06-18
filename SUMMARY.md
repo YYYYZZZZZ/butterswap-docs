@@ -15,6 +15,7 @@
 ## TOKENOMICS
 
 * [🍞 BUTTER](tokenomics/butter.md)
+* [🔥 BUTTER Burn](tokenomics/butter-burn.md)
 
 ## Beginner's Guide
 
