@@ -1,6 +1,10 @@
 # 🔥 BUTTER Burn
 
-As part of the tokenomics, we will use part of the platform revenue to buy back and burn BUTTER. Below is the list of detailed burning schedules:
+As part of the tokenomics, we will use part of the platform revenue to buy back and burn BUTTER. 
+
+We plan to do BUTTER burn once or more per week.
+
+Below is the list of detailed burning schedules:
 
 | Total amount burnt |
 | :--- |
