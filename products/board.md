@@ -4,5 +4,13 @@ ButterSwap board is a mechanism for DAO \(Decentralized Autonomous Organization\
 
 ## Entering the board
 
-You first stake stake at least X CREAM tokens to get DAO tokens 1:1, X = 0.1% of BUTTER total supply After you enter board, you can choose to add any number of CREAM tokens or remove all CREAM tokens, which makes you quit the board You can only quit the board after 7 days of entering and only on Sunday Once you become board, unless you quit board, you will stay in board even if you staked CREAM tokens becomes less than 0.1% of BUTTER total supply, which increases continuously
+You first stake BUTTER to get CREAM tokens $$1:1$$ , and then you stake $$X$$ CREAM tokens to get DAO tokens $$1:1$$, where $$X$$ is at least $$0.1\%$$ of BUTTER total supply. Now you become a board member of ButterSwap! Once you become a board member, unless you quit board, you will stay in board even if you staked CREAM tokens becomes less than $$0.1\%$$ of BUTTER total supply, which increases continuously. So for early board members, the entering threshold is lower than late board members, which is reasonable.
+
+## Board benefits
+
+
+
+## Leaving the board
+
+After you enter board, you can choose to add any number of CREAM tokens or remove all CREAM tokens, which makes you quit the board. You can only quit the board 7 days after entering and only on Sunday. After you quit the board, you get back all your staked CREAM tokens, which in turn can redeem your staked BUTTER tokens.
 
