@@ -18,7 +18,9 @@ There will be various DAO pools, similar to CREAM pools, available only for boar
 
 ### 3. Lucky Lucky
 
-Each day, there is a special of Lucky Lucky event, in which we give one lucky board member a special gift. You stake some DAO token
+Each day, there is a special of Lucky Lucky event, in which we give one lucky board member a special gift \( $$1\%$$ of all reward emissions per day, which is 138240 BUTTERs\). You can stake any number of DAO tokens to enter a Lucky Lucky event, and the probability you win is proportional to the number of DAO tokens staked.
+
+### Other benefits coming soon
 
 ## Leaving the board
 
