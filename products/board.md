@@ -12,9 +12,13 @@ You first stake BUTTER to get CREAM tokens $$1:1$$ , and then you stake $$X$$ CR
 
 Only board members can vote on important community decisions, such as next halfing time, tokenomics, etc.
 
-### 2. Share DEX revenue
+### 2. Board special DAO pools
 
+There will be various DAO pools, similar to CREAM pools, available only for board members. You can stake you DAO tokens to earn in these pools. These pools include DEX revenue sharing pools, special partner airdrop pools, donation pools, NFT revenue sharing pools, etc.
 
+### 3. Lucky Lucky
+
+Each day, there is a special of Lucky Lucky event, in which we give one lucky board member a special gift. You stake some DAO token
 
 ## Leaving the board
 
