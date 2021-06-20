@@ -8,6 +8,12 @@ You first stake BUTTER to get CREAM tokens $$1:1$$ , and then you stake $$X$$ CR
 
 ## Board benefits
 
+### 1. Voting
+
+Only board members can vote on important community decisions, such as next halfing time, tokenomics, etc.
+
+### 2. Share DEX revenue
+
 
 
 ## Leaving the board
