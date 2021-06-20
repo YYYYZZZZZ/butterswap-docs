@@ -3,8 +3,8 @@
 * [💡 ButterSwap Intro](README.md)
 * [❓ FAQ](faq.md)
 * [🔒 Audit](audit.md)
-* [☎️ Contact](contact.md)
 * [📑 Smart Contracts](smart-contracts.md)
+* [☎️ Contact](contact.md)
 
 ## PRODUCTS
 
