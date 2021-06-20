@@ -4,6 +4,7 @@
 * [❓ FAQ](faq.md)
 * [🔒 Audit](audit.md)
 * [☎️ Contact](contact.md)
+* [📑 Smart Contracts](smart-contracts.md)
 
 ## PRODUCTS
 
