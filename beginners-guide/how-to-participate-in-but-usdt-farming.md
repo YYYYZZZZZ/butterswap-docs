@@ -1,6 +1,6 @@
 # 💸 How to participate in BUT-USDT farming?
 
-ButterSwap's genesis mining uses BUT-USDT liquidity provider tokens to farm. So first, you need to own BUT tokens.
+One of ButterSwap's farms uses BUT-USDT liquidity provider tokens to farm. So first, you need to own BUT tokens.
 
 ## How to get BUT tokens?
 
