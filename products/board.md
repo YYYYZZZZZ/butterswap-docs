@@ -26,3 +26,7 @@ Each day, there is a special of Lucky Lucky event, in which we give one lucky bo
 
 After you enter board, you can choose to add any number of CREAM tokens or remove all CREAM tokens, which makes you quit the board. You can only quit the board 7 days after entering and only on Sunday. After you quit the board, you get back all your staked CREAM tokens, which in turn can redeem your staked BUTTER tokens.
 
+{% hint style="warning" %}
+Similar to CREAM token, don't transfer or sell any DAO token. Before you unstake CREAM, you have to unstake DAO first. You have to return the same amount of DAO in order to unstake the same amount of CREAM. 
+{% endhint %}
+
