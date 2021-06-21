@@ -25,3 +25,7 @@
 * [💰 How to use ButterSwap?](beginners-guide/how-to-use-butterswap.md)
 * [💸 How to participate in BUT-USDT farming?](beginners-guide/how-to-participate-in-but-usdt-farming.md)
 
+## Legal
+
+* [📙 Terms of Service](legal/terms-of-service.md)
+
