@@ -10,7 +10,7 @@ Visit DApp https://butterswap.me in any of your favorite wallet and connect your
 
 ### How to claim your reward?
 
-Out of all the applicants, 500 of lucky users will be selected to share a total of 3,000,000 BUTTER. We will announce the list of lucky addresses here and each of these address will receive their share of BUTTER shortly after.
+Out of all the applicants, 500 of lucky users will be selected to share a total of 3,000,000 BUTTER. We will announce the list of lucky addresses here and each of these address will receive their share of BUTTER within a week.
 
 For more information, check CoinMarketCap's [airdrop page](https://coinmarketcap.com/airdrop/).
 
