@@ -30,7 +30,9 @@ How to participate:
   
 6. Join our Discord: [https://discord.gg/tmqTZ96gpd](https://www.google.com/url?q=https://discord.gg/tmqTZ96gpd&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNGLkY4u5Ad3wEEIv-NdI1aHuBB6EA)
 
-7. Submit an online form which will come out next week.  
+7. Submit an online form which will come out next week. 
+
+And you can start with 1-6 today, and it counts!  
   
   
 Website: [https://www.butterswap.me](https://www.google.com/url?q=https://www.butterswap.me&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNFhMfZKnIgFaVM-ku68EdtfgnZpAA)  
