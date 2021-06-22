@@ -24,6 +24,7 @@
 
 * [💰 How to use ButterSwap?](beginners-guide/how-to-use-butterswap.md)
 * [💸 How to participate in BUT-USDT farming?](beginners-guide/how-to-participate-in-but-usdt-farming.md)
+* [🦊 Metamask: Add Huobi ECO Chain \(HECO\) Network](beginners-guide/metamask-add-huobi-eco-chain-heco-network.md)
 
 ## Legal
 
