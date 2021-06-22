@@ -18,23 +18,9 @@ Third, our smart contract source code has been audited independently by the pres
 
 When you go into the dAPP in the top-right corner you can see the different blockchains available, click on it then choose Heco Chain Mainnet.
 
-
-
 #### MetaMask
 
-Create a custom RPC with the following:
-
-Network Name: HECO Mainnet
-
-New RPC URL: [https://http-mainnet-node.huobichain.com](https://http-mainnet-node.huobichain.com)
-
-ChainID: 128
-
-Symbol: HT
-
-Block Explorer URL: [https://hecoinfo.com](https://hecoinfo.com)
-
-
+Read [here](beginners-guide/metamask-add-huobi-eco-chain-heco-network.md).
 
 #### TokenPocket
 
