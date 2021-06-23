@@ -20,7 +20,7 @@ How to participate:
   
 1. Follow our Twitter: [https://twitter.com/butterswap](https://www.google.com/url?q=https://twitter.com/butterswap&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNGIBrvnsMKumgvcxNj34-2xn9P-pg)  
   
-2. Retweet the CMC AirDrop Event: [https://twitter.com/butterswap/status/1406893638928326661](https://twitter.com/butterswap/status/1407566595728175104)  
+2. Retweet the CMC AirDrop Event: [https://twitter.com/butterswap/status/1407613165517475847](https://twitter.com/butterswap/status/1407613165517475847)  
   
 3. Tag 5 friends in the retweet  
   
