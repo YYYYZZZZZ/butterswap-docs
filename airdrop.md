@@ -26,9 +26,11 @@ How to participate:
   
 4. Join our Telegram: [https://t.me/butterswap0](https://www.google.com/url?q=https://t.me/butterswap0&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNFIyvRcJSiPSh06ewXAI7x9UMCzHg)  
   
-5. Add BUTTER to your CoinMarketCap watchlist: [https://coinmarketcap.com/currencies/butterswap/](https://www.google.com/url?q=https://coinmarketcap.com/currencies/butterswap/&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNErZ2VDxvC_sqhaEPs7ZQaTSjazvA)  
+5. Add BUTTER to your CoinMarketCap watchlist: [https://coinmarketcap.com/currencies/butterswap/](https://www.google.com/url?q=https://coinmarketcap.com/currencies/butterswap/&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNErZ2VDxvC_sqhaEPs7ZQaTSjazvA)
+
+6. Follow HECO Chain twitter: [https://twitter.com/HECO\_Chain](https://twitter.com/HECO_Chain)  
   
-6. Join our Discord: [https://discord.gg/tmqTZ96gpd](https://www.google.com/url?q=https://discord.gg/tmqTZ96gpd&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNGLkY4u5Ad3wEEIv-NdI1aHuBB6EA)
+7. Join our Discord: [https://discord.gg/tmqTZ96gpd](https://www.google.com/url?q=https://discord.gg/tmqTZ96gpd&sa=D&source=editors&ust=1624387869147000&usg=AFQjCNGLkY4u5Ad3wEEIv-NdI1aHuBB6EA)
 
 Then, go to CoinMarketCap's [airdrop page](https://coinmarketcap.com/currencies/butterswap/airdrop/), and complete all the tasks and fill in all your information.  
   
