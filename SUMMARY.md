@@ -1,7 +1,7 @@
 # Table of contents
 
 * [💡 ButterSwap Intro](README.md)
-* [✈️ Airdrop](airdrop.md)
+* [✈️ Airdrop \(~$40,000 USD\)](airdrop.md)
 * [❓ FAQ](faq.md)
 * [🔒 Audit](audit.md)
 * [📑 Smart Contracts](smart-contracts.md)
