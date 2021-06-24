@@ -2,7 +2,7 @@
 
 BUTTER is the platform token for ButterSwap and can only be mined in ButterSwap via LP mining \(in Farms\) and BUTTER staking \(in CREAM pools\). 
 
-For fairness considerations, BUTTER will not be minted before genesis mining, hence all investors get an equal chance of getting BUTTER.
+For fairness considerations, BUTTER will not be minted before genesis mining, hence all investors get an equal chance of getting BUTTER. The first ever BUTTER was minted on 2021-6-16.
 
 BUTTER is minted as block number increases. In future, reward per block may decrease after halfing.
 
