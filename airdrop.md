@@ -1,4 +1,4 @@
-# ✈️ Airdrop \(~$36,000 USD\)
+# ✈️ Airdrop
 
 ## 3,000,000 🔥BUTTER AirDrop✈️ By ButterSwap & CoinMarketCap
 
