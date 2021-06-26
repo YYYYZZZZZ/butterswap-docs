@@ -8,6 +8,24 @@ BUTTER will also be used for community decentralized autonomous organization \(D
 
 Currently, ButterSwap only supports Heco Chain. In the near future, BSC, ETH and other chains will be supported to seamlessly integrate assets across various chains.
 
+Below is the list of information page on different platforms:
+
+{% hint style="success" %}
+**CoinMarketCap:** [**https://coinmarketcap.com/currencies/butterswap/**](https://coinmarketcap.com/currencies/butterswap/)\*\*\*\*
+{% endhint %}
+
+{% hint style="success" %}
+**CoinGecko:** [**https://www.coingecko.com/en/coins/butterswap**](https://www.coingecko.com/en/coins/butterswap)\*\*\*\*
+{% endhint %}
+
+{% hint style="success" %}
+**FeiXiaoHao:** [**https://www.feixiaohao.com/currencies/butterswap/**](https://www.feixiaohao.com/currencies/butterswap/)\*\*\*\*
+{% endhint %}
+
+{% hint style="success" %}
+**DeFiBox:** [**https://www.defibox.com/defirange/butterswap?type=all&chain=heco&pageChain=HECO**](https://www.defibox.com/defirange/butterswap?type=all&chain=heco&pageChain=HECO)\*\*\*\*
+{% endhint %}
+
 ## Roadmap
 
 ![](.gitbook/assets/roadmap1.0.png)

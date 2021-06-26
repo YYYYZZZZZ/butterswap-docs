@@ -21,7 +21,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-**👨‍💻 Discord:** [**https://discord.gg/tmqTZ96gpd**](https://discord.gg/tmqTZ96gpd)\*\*\*\*
+**🎧 Discord:** [**https://discord.gg/tmqTZ96gpd**](https://discord.gg/tmqTZ96gpd)\*\*\*\*
 {% endhint %}
 
 
