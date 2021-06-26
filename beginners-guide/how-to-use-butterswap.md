@@ -1,6 +1,6 @@
 # 💰 How to use ButterSwap?
 
-This guide is a recommended step by step guide for beginners to make the best of ButterSwap. [TokenPocket](https://www.tokenpocket.pro/) is used as an example wallet here for the tutorial. However, other wallets, such as Metamask, Huobi Wallet, etc. are also supported, as long as they support Heco chain.
+This guide is a recommended step by step guide for beginners to make the best of ButterSwap. [TokenPocket](https://www.tokenpocket.pro/) is used as an example wallet here for the tutorial. However, other wallets, such as Metamask, Huobi Wallet, etc. are also supported, as long as they support Heco chain. Please refer to the detailed [list of supported wallets](https://www.hecochain.com/en-us/wallet) for more information.
 
 ## Step 1 Create Heco wallet and deposit tokens
 
