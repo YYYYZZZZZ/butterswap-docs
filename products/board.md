@@ -14,9 +14,9 @@ After you enter the board, you can always choose to add more CREAM tokens to sta
 
 ### 1. Voting
 
-Only board members can vote on important community decisions, such as next halfing time, tokenomics, etc.
+With the freely obtained DAO tokens, board members can vote on important community decisions, such as next halfing time, tokenomics, activity rules, etc. Since only board members can have DAO tokens, voting is a special privilege for board members to collaboratively improve the whole eco-system.
 
-### 2. Board special DAO pools
+### 2. BOARD pools
 
 There will be various DAO pools, similar to CREAM pools, available only for board members. You can stake you DAO tokens to earn in these pools. These pools include DEX revenue sharing pools, special partner airdrop pools, donation pools, NFT revenue sharing pools, etc.
 
