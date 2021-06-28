@@ -13,7 +13,7 @@
 * [🐮 Farms](products/farms.md)
 * [🧁 CREAM Pools](products/cream-pools/README.md)
   * [Apply for Partnership](products/cream-pools/apply-for-partnership.md)
-* [🏦 Board \(expected in a week or so\)](products/board.md)
+* [🏦 Board \(coming next\)](products/board.md)
 
 ## TOKENOMICS
 
