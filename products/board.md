@@ -54,6 +54,10 @@ By the end of day, the smart contract will calculate a _**power**_ value for eac
 
 Everything is calculated inside smart contracts on blockchain, and we believe it is a fair and fun event to participate.
 
+### 4. Auto BUTTER pools \(to be released in Board Phase 2\)
+
+You stake BUTTER in auto BUTTER pools, and the earnings will be automagically harvested and restaked \(compounded\) for you. A small percent of performance fee will be subtracted automatically from each yield harvest and burned. 
+
 ### Other special benefits coming soon
 
 ## Leaving the board
