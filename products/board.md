@@ -20,7 +20,7 @@ For each voting topic, you can only vote once. Voting does not cost you any DAO 
 
 ### 2. BOARD pools
 
-There will be various BOARD pools, similar to CREAM pools, available only for board members. You can stake you free BOARD tokens to earn in these pools. These pools include automatic compounding BUTTER pools, DEX revenue sharing pools, eco-system partner airdrop pools, donation pools, NFT revenue sharing pools, etc. You can choose different pools to participate and stake different amount of BOARD tokens to any of them.
+There will be various BOARD pools, similar to CREAM pools, available only for board members. You can stake you free BOARD tokens to earn in these pools. These pools DEX revenue sharing pools, eco-system partner airdrop pools, donation pools, NFT revenue sharing pools, etc. You can choose different pools to participate and stake different amount of BOARD tokens to any of them.
 
 The same as in CREAM pools, there is no locking period for BOARD pools, and you can always unstake any amount of BOARD tokens at any time.
 
