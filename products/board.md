@@ -28,7 +28,7 @@ The same as in CREAM pools, there is no locking period for BOARD pools, and you 
 
 ### 3. Lucky Lucky
 
-Each day, there is a special round of Lucky Lucky, in which we give one lucky participating board member a special gift \($$1\%$$ of all reward emissions per day, which is 138,240 BUTTERs based on current emission rate\). You can stake any number of BOARD tokens to enter Lucky Lucky, and your BOARD tokens will be returned in full amount if you leave Lucky Lucky.
+Each day, there is a special round of Lucky Lucky, in which we give one lucky participating board member a special gift \($$1\%$$ of all reward emissions per day, which is 138,240 BUTTERs based on current emission rate\). You can stake any number of BOARD tokens to in the Lucky Lucky, pool and your BOARD tokens will be returned in full amount if you leave Lucky Lucky. If you keep the staked BOARD tokens in Lucky Lucky pools without unstaking, you will automatically participate each round of Lucky Lucky.
 
 Winning probability, what we name it _**power**_, is determined by both the number of staked BOARD tokens and the staking timing. If you have not staked any BOARD tokens before the current round of Lucky Lucky starts, the initial _**power**_ is set to 0. If you have already staked some BOARD tokens before the current round of Lucky Lucky starts, the initial _**power**_ is given as follows:
 
