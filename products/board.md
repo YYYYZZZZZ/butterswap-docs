@@ -28,11 +28,15 @@ The same as in CREAM pools, there is no locking period for BOARD pools, and you 
 
 ### 3. Lucky Lucky
 
-Each day, there is a special Lucky Lucky event, in which we give one lucky board member a special gift \($$1\%$$ of all reward emissions per day, which is 138,240 BUTTERs based on current emission rate\). You can stake any number of BOARD tokens to enter a Lucky Lucky event, and the detailed rules are described as follows.
+Each day, there is a special round of Lucky Lucky, in which we give one lucky participating board member a special gift \($$1\%$$ of all reward emissions per day, which is 138,240 BUTTERs based on current emission rate\). You can stake any number of BOARD tokens to enter Lucky Lucky, and your BOARD tokens will be returned in full amount if you leave Lucky Lucky.
 
-Winning probability, what we name it _**power**_, is determined by both the number of staked BOARD tokens and the staking timing. 
+Winning probability, what we name it _**power**_, is determined by both the number of staked BOARD tokens and the staking timing. If you have not staked any BOARD tokens before the current round of Lucky Lucky starts, the initial _**power**_ is set to 0. If you have already staked some BOARD tokens before the current round of Lucky Lucky starts, the initial _**power**_ is given as follows:
 
-Initially, _**power**_ is set to 0.
+```text
+power = board_current * (end_block - start_block)
+```
+
+_**board\_current**_ is the current number of BOARD tokens you have already staked, _**end\_block**_ is the predicted end block number of this round of Lucky Lucky, and _**start\_block**_ is the start block number.
 
 During the day, you can stake and unstake freely any mount of BOARD tokens to Lucky Lucky event.
 
@@ -42,7 +46,7 @@ Each time you stake BOARD tokens to Lucky Lucky event, the _**power**_ is update
 power = power + board_num * (end_block - current_block)
 ```
 
-_**board\_num**_ is the number of BOARD tokens you stake this time, _**end\_block**_ is the predicted end block number fo this round of Lucky Lucky event, and _**current\_block**_ is the current block number.
+_**board\_num**_ is the number of BOARD tokens you stake this time, _**end\_block**_ is the predicted end block number of this round of Lucky Lucky, and _**current\_block**_ is the current block number.
 
 Each time you unstake BOARD tokens from Lucky Lucky event, the _**power**_ is updated as follows:
 
