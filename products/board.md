@@ -16,13 +16,13 @@ After you enter the board, you can always choose to add more CREAM tokens to sta
 
 With the freely obtained DAO tokens, board members can vote on important community decisions, such as next halfing time, tokenomics, activity rules, etc. Since only board members can have DAO tokens, voting is a special privilege for board members to collaboratively improve the whole eco-system.
 
-For each voting topic, you can vote multiple times and change your votes as long as the voting has not ended yet. Only your last voting would count. The number of your voting tickets is always equal to the number of DAO tokens you possess. For example, after you make your vote, you obtain more DAO tokens by staking more CREAM tokens, your voting tickets increase automatically. Similarly, if you decrease your DAO tokens, so does your voting tickets.
+For each voting topic, you can vote multiple times and change your vote as long as the voting has not ended yet. Only the last voting would count. The number of the voting tickets is always equal to the number of DAO tokens you possess. For example, after you make your vote, you choose to obtain more DAO tokens by staking more CREAM tokens, your voting tickets increase automatically. Similarly, if you decrease your DAO tokens, so does your voting tickets.
 
 Voting does not cost you any DAO tokens, since your DAO tokens only represent that you have the voting power. After each voting topic, you still have all the DAO tokens and you can always start voting on a new topic with all the DAO tokens you have initially.
 
 ### 2. BOARD pools
 
-There will be various BOARD pools, similar to CREAM pools, available only for board members. You can stake you free BOARD tokens to earn in these pools. These pools DEX revenue sharing pools, eco-system partner airdrop pools, donation pools, NFT revenue sharing pools, etc. You can choose different pools to participate and stake different amount of BOARD tokens to any of them.
+There will be various BOARD pools, similar to CREAM pools, available only for board members. You can stake you free BOARD tokens to earn in these pools. These pools include DEX revenue sharing pools, eco-system partner airdrop pools, donation pools, NFT revenue sharing pools, etc. You can choose different pools to participate and stake different amount of BOARD tokens to any of them.
 
 The same as in CREAM pools, there is no locking period for BOARD pools, and you can always unstake any amount of BOARD tokens at any time.
 
