@@ -6,7 +6,7 @@ ButterSwap board is a mechanism for DAO \(Decentralized Autonomous Organization\
 
 You first stake BUTTER to get CREAM tokens $$1:1$$ , and then you stake $$X$$ CREAM tokens to get DAO tokens $$1:1$$, where $$X$$ is at least $$0.1\%$$ of BUTTER total supply. Now you become a board member of ButterSwap! 
 
-For each CREAM token you stake in the board, you get a BOARD token and a DAO token. Similar to CREAM, both BOARD and DAO are free tokens, and they are $$1:1$$ with CREAM. BOARD tokens are for staking and DAO tokens are for voting. Once you become a board member, unless you quit board, you will stay in board even if you staked CREAM tokens becomes less than $$0.1\%$$ of BUTTER total supply, which increases continuously. So for early board members, the entering threshold is lower than late board members, which is reasonable.
+For each CREAM token you stake in the board, you get a BOARD token and a DAO token. Similar to CREAM, both BOARD and DAO are free tokens, and they are $$1:1$$ with CREAM. BOARD tokens are for staking and DAO tokens are for voting. Once you become a board member, unless you quit board, you will stay in board even if your staked CREAM tokens becomes less than $$0.1\%$$ of BUTTER total supply, which increases continuously. So for early board members, the entering threshold is lower than later board members, which is reasonable.
 
 After you enter the board, you can always choose to add more CREAM tokens to staking. For example, if the board requires 100 CREAM tokens, and you previously only staked 90 CREAM tokens, it is perfectly fine for you to stake only 1 CREAM token. Even though 91 CREAM tokens is still less than the required 100, since you are already a board member, you will continue to be in board.
 
@@ -28,7 +28,7 @@ The same as in CREAM pools, there is no locking period for BOARD pools, and you 
 
 ### 3. Lucky Lucky
 
-Each day, there is a special Lucky Lucky event, in which we give one lucky board member a special gift \($$1\%$$ of all reward emissions per day, which is 138,240 BUTTERs\). You can stake any number of BOARD tokens to enter a Lucky Lucky event, and the detailed rules are described as follows.
+Each day, there is a special Lucky Lucky event, in which we give one lucky board member a special gift \($$1\%$$ of all reward emissions per day, which is 138,240 BUTTERs based on current emission rate\). You can stake any number of BOARD tokens to enter a Lucky Lucky event, and the detailed rules are described as follows.
 
 Winning probability, what we name it _**power**_, is determined by both the number of staked BOARD tokens and the staking timing. 
 
