@@ -1,4 +1,4 @@
-# 🏦 Board \(coming next\)
+# 🏦 Board
 
 ButterSwap board is a mechanism for DAO \(Decentralized Autonomous Organization\) aiming to make the community decide on important decisions, such as next halfing time, and give the BUTTER supporters various rewards and benefits.
 
