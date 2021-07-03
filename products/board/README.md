@@ -30,9 +30,9 @@ The same as in CREAM pools, there is no locking period for BOARD pools, and you 
 
 Lucky Lucky is a daily board exclusive prize event and details can be found [here](lucky-lucky.md).
 
-### 4. Auto BUTTER pools \(Phase 2\)
+### 4. Exclusive Auto BUTTER pools \(beta, in plan\)
 
-You stake BUTTER in auto BUTTER pools, and the earnings will be automagically harvested and restaked \(compounded\) for you. A small percent of performance fee will be subtracted automatically from each yield harvest and burned. 
+You stake BUTTER in auto BUTTER pools, and the earnings will be automagically harvested and restaked \(compounded\) for you. A small percent of performance fee will be subtracted automatically from each yield harvest and burned. Different from normal auto BUTTER pools, board exclusive auto BUTTER pools will have lower early withdrawal fee and lower performance fee.
 
 ### Other special benefits coming soon
 
