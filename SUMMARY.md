@@ -1,11 +1,15 @@
 # Table of contents
 
 * [💡 ButterSwap Intro](README.md)
-* [✈️ Airdrop](airdrop.md)
 * [❓ FAQ](faq.md)
 * [🔒 Audit](audit.md)
 * [📑 Smart Contracts](smart-contracts.md)
 * [☎️ Contact](contact.md)
+
+## Community
+
+* [✈️ Airdrop](community/airdrop.md)
+* [👬 Referral \(in plan\)](community/referral-in-plan.md)
 
 ## PRODUCTS
 

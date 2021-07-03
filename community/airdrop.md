@@ -2,7 +2,7 @@
 
 ## 3,000,000 🔥BUTTER AirDrop✈️ By ButterSwap & CoinMarketCap
 
-![](.gitbook/assets/cmc_airdrop.jpg)
+![](../.gitbook/assets/cmc_airdrop.jpg)
 
 Total AirDrop: 3,000,000 BUTTER  
   
