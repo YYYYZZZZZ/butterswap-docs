@@ -9,7 +9,7 @@
 ## Community
 
 * [✈️ Airdrop](community/airdrop.md)
-* [👬 Referral \(in plan\)](community/referral-in-plan.md)
+* [👬 Referral \(beta, in plan\)](community/referral-in-plan.md)
 
 ## PRODUCTS
 
