@@ -32,7 +32,7 @@ Lucky Lucky is a daily board exclusive prize event and details can be found [her
 
 ### 4. Exclusive Auto BUTTER pools \(beta, in plan\)
 
-If you stake BUTTER in auto BUTTER pools, the earnings will be automagically harvested and restaked \(compounded\) for you. A small percent of performance fee will be subtracted automatically from each yield harvest and burned. Different from normal auto BUTTER pools, board exclusive auto BUTTER pools will have lower early withdrawal fee and lower performance fee.
+Different from normal auto BUTTER pools, board exclusive auto BUTTER pools will have lower early withdrawal fee and lower performance fee, with details [here](../auto-butter-pools.md).
 
 ### Other special benefits coming soon
 
