@@ -15,9 +15,9 @@
 
 * [⚖️ Exchange](products/exchange.md)
 * [🐮 Farms](products/farms.md)
-* [🧁 Cream Pools](products/cream-pools/README.md)
+* [🧁 CREAM Pools](products/cream-pools/README.md)
   * [Apply for Partnership](products/cream-pools/apply-for-partnership.md)
-* [⏰ Auto Butter Pools](products/auto-butter-pools.md)
+* [⏰ Auto BUTTER Pools](products/auto-butter-pools.md)
 * [🏦 Board](products/board/README.md)
   * [✨ Lucky Lucky](products/board/lucky-lucky.md)
 

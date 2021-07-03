@@ -1,2 +1,2 @@
-# ⏰ Auto Butter Pools
+# ⏰ Auto BUTTER Pools
 
