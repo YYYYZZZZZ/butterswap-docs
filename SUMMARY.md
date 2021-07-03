@@ -13,7 +13,8 @@
 * [🐮 Farms](products/farms.md)
 * [🧁 CREAM Pools](products/cream-pools/README.md)
   * [Apply for Partnership](products/cream-pools/apply-for-partnership.md)
-* [🏦 Board](products/board.md)
+* [🏦 Board](products/board/README.md)
+  * [✨ Lucky Lucky](products/board/lucky-lucky.md)
 
 ## TOKENOMICS
 
