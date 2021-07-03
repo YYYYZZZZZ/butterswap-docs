@@ -20,6 +20,7 @@
 * [⏰ Auto BUTTER Pools \(beta, in plan\)](products/auto-butter-pools.md)
 * [🏦 Board](products/board/README.md)
   * [✨ Lucky Lucky](products/board/lucky-lucky.md)
+* [🎁 Blind Boxes and BUTTER cards \(early ideas\)](products/blind-boxes-and-butter-cards-early-ideas.md)
 
 ## TOKENOMICS
 
