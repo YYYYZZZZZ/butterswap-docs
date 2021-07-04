@@ -1,5 +1,7 @@
 # 🇻🇳 AMA with Bear King Group \(Vietnam\)
 
+![](../../.gitbook/assets/ama_bear_king.jpg)
+
 Time: 18:00 PM GMT+8 - July 4, 2021
 
 Telegram: [https://t.me/bearking\_group](https://t.me/bearking_group)
