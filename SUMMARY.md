@@ -11,7 +11,8 @@
 * [✈️ Airdrop](community/airdrop.md)
 * [👬 Referral \(beta, in plan\)](community/referral-in-plan.md)
 * [👨‍💻‍ AMA](community/ama/README.md)
-  * [🇻🇳 AMA with Bear King Group \(Vietnam\)](community/ama/ama-with-bear-king-group.md)
+  * [🇻🇳 AMA with Bear King \(Vietnam\)](community/ama/ama-with-bear-king.md)
+  * [🇮🇩 AMA with IDCRYPTO](community/ama/ama-with-idcrypto.md)
 
 ## PRODUCTS
 

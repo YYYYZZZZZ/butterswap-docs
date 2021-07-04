@@ -1,4 +1,4 @@
-# 🇻🇳 AMA with Bear King Group \(Vietnam\)
+# 🇻🇳 AMA with Bear King \(Vietnam\)
 
 ![](../../.gitbook/assets/ama_bear_king.jpg)
 
