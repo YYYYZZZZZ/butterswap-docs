@@ -9,7 +9,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-**✈️ Telegram Group \(Global 🌍\):** [**https://t.me/butterswap0**](https://t.me/butterswap0)\*\*\*\*
+**✈️ Telegram Group \(Global\):** [**https://t.me/butterswap0**](https://t.me/butterswap0)\*\*\*\*
 
 **✈️ Telegram News Announcement Channel:** [**https://t.me/butterswap\_news**](https://t.me/butterswap_news)\*\*\*\*
 
