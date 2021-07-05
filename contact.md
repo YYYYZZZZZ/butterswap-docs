@@ -9,7 +9,9 @@
 {% endhint %}
 
 {% hint style="success" %}
-**✈️ Telegram Group \(Global\):** [**https://t.me/butterswap0**](https://t.me/butterswap0)\*\*\*\*
+**✈️ Telegram Group \(Global 🌍\):** [**https://t.me/butterswap0**](https://t.me/butterswap0)\*\*\*\*
+
+**✈️ Telegram News Announcement Channel:** [**https://t.me/butterswap\_news**](https://t.me/butterswap_news)\*\*\*\*
 
 **✈️ Telegram Group \(China 🇨🇳\):** [**https://t.me/butterswap8**](https://t.me/butterswap8)\*\*\*\*
 
@@ -24,9 +26,9 @@
 **✈️ Telegram Group \(Arab 🇸🇦\):** [**https://t.me/butterswap\_arabic**](https://t.me/butterswap_arabic)\*\*\*\*
 
 **✈️ Telegram Group \(Indonesia 🇮🇩\):** [**https://t.me/butterswap\_id**](https://t.me/butterswap_id)\*\*\*\*
-
-**✈️ Telegram News Announcement Channel:** [**https://t.me/butterswap\_news**](https://t.me/butterswap_news)\*\*\*\*
 {% endhint %}
+
+\*\*\*\*
 
 {% hint style="success" %}
 **👨‍💻 GitHub:** [**https://github.com/butter-swap**](https://github.com/butter-swap)\*\*\*\*
