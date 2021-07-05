@@ -20,7 +20,7 @@ Buying BUTTER with any token is fine, such as USDT, HBTC, BUT, etc.
 
 
 
-🏆 Contest prize: 🎉 10,000 USDT of BUTTER 🎉
+🏆 Contest prize: 🎉 10,000~12,000 USDT of BUTTER 🎉
 
 Top 1 Chef: 🎉 5,000 USDT of BUTTER 🎉
 
@@ -32,7 +32,7 @@ Top 4-5 Chef: 🎉 500 USDT of BUTTER 🎉
 
 Top 6-10 Chef: 🎉 200 USDT of BUTTER 🎉
 
-❤️ For board members, you price will be 20% more!
+❤️ For board members, you prize will be 20% more!
 
 We will wait for you in the kitchen then!
 
