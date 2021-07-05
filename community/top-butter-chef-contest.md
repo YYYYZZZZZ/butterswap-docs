@@ -14,7 +14,7 @@ Dear Chefs:
 
 We will see who is top BUTTER chef that cooks \(buys\) most BUTTER during the week.
 
-For example, if you buy 10 BUTTER, then sell them, and then buy back 10 BUTTER, your chef power is 20.
+Only buying counts, selling does not count of course.
 
 Buying BUTTER with any token is fine, such as USDT, HBTC, BUT, etc.
 
