@@ -10,7 +10,7 @@ HECO \(Huobi ECO Chain\) is a decentralized, high-efficiency and energy-saving p
 
 Current, the following Wallets supports HECO chain \(click the Wallet name to download\)
 
-[Huobi Wallet](https://www.huobiwallet.com/en) \| [TokenPocket ](https://www.tokenpocket.pro/)\| [BitKeep ](https://bitkeep.org/)\| [MetaMask ](https://metamask.io/)\| [ONTO ](https://www.onto.app/zh)\| [Hyperpay ](https://hyperpay.me/?lang=zh-cn)\|[Dappbirds ](https://dappbirds.com/index)\| [Aolink ](https://aolink.io/#/home)\| [Codebank](https://codebank-m.jinse.com/) \| [Coin98 ](https://coin98.app/)\| [Alphawallet ](https://alphawallet.com/)\| [O3 Wallet](https://o3.network/) \| [Midas ](https://midasprotocol.io/)\| [Onekey](https://onekey.so/en-US)
+[Huobi Wallet](https://www.huobiwallet.com/en) \| [TokenPocket ](https://www.tokenpocket.pro/)\| [BitKeep ](https://bitkeep.org/)\| [MetaMask ](https://metamask.io/)\| [ONTO](https://www.onto.app/en) \| [Hyperpay](https://hyperpay.tech/?lang=en) \| [Dappbirds ](https://dappbirds.com/index)\| [Aolink ](https://aolink.io/#/home)\| [Codebank](https://codebank-m.jinse.com/) \| [Coin98 ](https://coin98.app/)\| [Alphawallet ](https://alphawallet.com/)\| [O3 Wallet](https://o3.network/) \| [Midas ](https://midasprotocol.io/)\| [Onekey](https://onekey.so/en-US)
 
 ### Option 2: Set Up MetaMask on Browser <a id="a895"></a>
 
