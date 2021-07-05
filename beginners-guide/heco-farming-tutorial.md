@@ -18,16 +18,22 @@ You can refer to [HECO's guide](https://medium.com/heco-chain/how-to-set-up-mate
 
 ## II. Withdraw Assets to HECO Wallet <a id="03c7"></a>
 
-After download a wallet, we need to withdraw the assets to the HECO wallet. You can choose to withdraw asset from either [Huobi Global](https://www.huobi.com/en-us/) or a third-party cross-chain swaps.
+After downloading a wallet, we need to withdraw the assets to the HECO wallet. You can choose to withdraw asset from either [Huobi Global](https://www.huobi.com/en-us/) or a third-party cross-chain swaps.
 
 ### Option 1: **Huobi Wallet** <a id="76b0"></a>
 
-1. Obtain the HECO wallet address, which can generally be found and copied on the asset details page.![](https://miro.medium.com/max/60/1*3Omv3ZdYaI52PByNhRr-3g.png?q=20)![](https://miro.medium.com/max/1092/1*3Omv3ZdYaI52PByNhRr-3g.png)
+1. Obtain the HECO wallet address, which can generally be found and copied on the asset details page.
 
-2. We need have a Huobi Global account and certain assets. Select the token to be withdrawn on the asset account page.![](https://miro.medium.com/max/60/1*Xe_kTz-L7t--D_QmZeYTBQ.png?q=20)![](https://miro.medium.com/max/1280/1*Xe_kTz-L7t--D_QmZeYTBQ.png)
+![](../.gitbook/assets/1_3omv3zdyai52pbynhrr-3g.png)
+
+2. We need have a Huobi Global account and certain assets. Select the token to be withdrawn on the asset account page.
+
+![](../.gitbook/assets/1_xe_ktz-l7t-d_qmzeytbq.png)
 
 3. Enter the HECO wallet address and the amount of token to be withdrawn, and confirm the gas fee _\(the gas fee will be much lower than the withdrawal fee for Ethereum\)._  
-**Note: When withdrawing asset, select HECO as the chain name, which is the token standard of Huobi Eco-Chain. Don’t choose any wrong chain, do not fill in the wrong withdrawal address, otherwise it may cause permanent loss of assets.**![](https://miro.medium.com/max/60/1*NXG7F4KCuth_AOBzp1Cw1Q.png?q=20)![](https://miro.medium.com/max/1278/1*NXG7F4KCuth_AOBzp1Cw1Q.png)
+**Note: When withdrawing asset, select HECO as the chain name, which is the token standard of Huobi Eco-Chain. Don’t choose any wrong chain, do not fill in the wrong withdrawal address, otherwise it may cause permanent loss of assets.**
+
+![](../.gitbook/assets/1_nxg7f4kcuth_aobzp1cw1q.png)
 
 4. Confirm the withdrawal, enter the verification code and other information.
 
@@ -36,4 +42,17 @@ After download a wallet, we need to withdraw the assets to the HECO wallet. You 
 ### Option 2: O3swap \(SWAP Ethereum assets for HECO assets\) <a id="778a"></a>
 
 [**O3swap** ](https://o3swap.com/)**Tutorial:** [https://bit.ly/3v0oOeJ](https://bit.ly/3v0oOeJ)
+
+## III. Where to Participate in HECO Ecological DeFi \(ButterSwap\) <a id="44e9"></a>
+
+ButterSwap is a new-concept & leading AMM DEX and yield farming platform audited by CertiK and Knownsec.
+
+Website: [https://butterswap.me](https://butterswap.me)
+
+### Mining on ButterSwap <a id="f97f"></a>
+
+Download the decentralized wallet application and create a HECO wallet, please read the above operation process.
+
+* Open the official website in the wallet browser or directly visit [https://butterswap.me](https://butterswap.me)
+* Follow the steps [here](https://docs.butterswap.me/beginners-guide/butterswap-tutorial-with-tokenpocket#step-3-connect-wallet) and happy farming!
 
