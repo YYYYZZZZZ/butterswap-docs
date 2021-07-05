@@ -12,7 +12,6 @@
 * [👬 Referral \(beta, in plan\)](community/referral-in-plan.md)
 * [👨‍💻‍ AMA](community/ama/README.md)
   * [🇮🇩 AMA with IDCRYPTO \(Indonesia\)](community/ama/ama-with-idcrypto.md)
-  * [🌍 AMA with HECO official \(Global\)](community/ama/ama-with-heco-official-global.md)
   * [🇻🇳 AMA with Bear King \(Vietnam\)](community/ama/ama-with-bear-king.md)
 
 ## PRODUCTS
