@@ -32,6 +32,8 @@ Top 4-5 Chef: 🎉 500 USDT of BUTTER 🎉
 
 Top 6-10 Chef: 🎉 200 USDT of BUTTER 🎉
 
+❤️ For board members, you price will be 20% more!
+
 We will wait for you in the kitchen then!
 
 
