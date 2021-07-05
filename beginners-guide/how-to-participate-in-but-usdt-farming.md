@@ -10,7 +10,7 @@ You can buy BUT in Huobi using BTC/ETH, or in BHEX using USDT. Simply searching 
 
 ## How to get participate in farming?
 
-Withdraw BUT from Huobi/BHEX using Heco address to your Heco wallet. Then follow the steps in [💰 How to use ButterSwap?](how-to-use-butterswap.md) to participate in farming. Basically, you need to provide BUT-USDT in liquidity pool and use the obtained LP tokens to stake in farm pools.
+Withdraw BUT from Huobi/BHEX using Heco address to your Heco wallet. Then follow the steps in [💰 How to use ButterSwap?](butterswap-tutorial-with-tokenpocket.md) to participate in farming. Basically, you need to provide BUT-USDT in liquidity pool and use the obtained LP tokens to stake in farm pools.
 
 
 

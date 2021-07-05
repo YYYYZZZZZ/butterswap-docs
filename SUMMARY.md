@@ -33,7 +33,7 @@
 ## Beginner's Guide
 
 * [🐂 HECO Farming Tutorial](beginners-guide/heco-farming-tutorial.md)
-* [💰 ButterSwap Tutorial with TokenPocket](beginners-guide/how-to-use-butterswap.md)
+* [💰 ButterSwap Tutorial with TokenPocket](beginners-guide/butterswap-tutorial-with-tokenpocket.md)
 * [💸 How to participate in BUT-USDT farming?](beginners-guide/how-to-participate-in-but-usdt-farming.md)
 * [🦊 Metamask: Add Huobi ECO Chain \(HECO\) Network](beginners-guide/metamask-add-huobi-eco-chain-heco-network.md)
 
