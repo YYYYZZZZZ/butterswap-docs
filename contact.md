@@ -9,11 +9,19 @@
 {% endhint %}
 
 {% hint style="success" %}
-**✈️ Telegram Group:** [**https://t.me/butterswap0**](https://t.me/butterswap0)\*\*\*\*
-{% endhint %}
+**✈️ Telegram Group \(Global\):** [**https://t.me/butterswap0**](https://t.me/butterswap0)\*\*\*\*
 
-{% hint style="success" %}
-**✈️ Telegram Announcement Channel:** [**https://t.me/butterswap\_news**](https://t.me/butterswap_news)\*\*\*\*
+**✈️ Telegram Group \(China 🇨🇳\):** [**https://t.me/butterswap8**](https://t.me/butterswap8)\*\*\*\*
+
+**✈️ Telegram Group \(Japan 🇯🇵\):** [**https://t.me/butterswap\_jp**](https://t.me/butterswap_jp)\*\*\*\*
+
+**✈️ Telegram Group \(Russia 🇷🇺\):** [**https://t.me/butterswap\_russia**](https://t.me/butterswap_russia)\*\*\*\*
+
+**✈️ Telegram Group \(India 🇮🇳\):** [**https://t.me/butterswap\_india**](https://t.me/butterswap_russia)\*\*\*\*
+
+**✈️ Telegram Group \(Iran 🇮🇷\):** [**https://t.me/butterswap\_iran**](https://t.me/butterswap_Iran)\*\*\*\*
+
+**✈️ Telegram News Announcement Channel:** [**https://t.me/butterswap\_news**](https://t.me/butterswap_news)\*\*\*\*
 {% endhint %}
 
 {% hint style="success" %}
