@@ -7,5 +7,5 @@ If you stake BUTTER in auto BUTTER pools, the earnings will be automagically har
 | Board member | 0.1% | 2% |
 | Non-board user | 0.2% | 2% |
 
-Both early withdrawal fee and performance fee will be charged in the form of BUTTER, and these fees will be burned automatically.
+Both early withdrawal fee and performance fee will be charged in the form of BUTTER. 50% of these fees will be burned automatically. The remaining 50% will be sent to treasury account for community growth.
 
