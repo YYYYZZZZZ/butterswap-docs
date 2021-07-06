@@ -14,7 +14,7 @@ Dear Chefs:
 
 We will see who is top BUTTER chef that cooks \(buys\) most BUTTER during the week.
 
-Only buying counts, selling does not count of course.
+If you buy 10,000 BUTTER, your chef power will increase by 10,000. However, if you sell 10,000 BUTTER, your chef power will decrease by 10,000.
 
 Buying BUTTER with any token is fine, such as USDT, HBTC, BUT, etc.
 
