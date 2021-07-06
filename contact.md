@@ -23,7 +23,7 @@
 
 **✈️ Telegram Group \(Iran 🇮🇷\):** [**https://t.me/butterswap\_iran**](https://t.me/butterswap_Iran)\*\*\*\*
 
-**✈️ Telegram Group \(Arab 🇸🇦\):** [**https://t.me/butterswap\_arabic**](https://t.me/butterswap_arabic)\*\*\*\*
+**✈️ Telegram Group \(Arabic 🌎\):** [**https://t.me/butterswap\_arabic**](https://t.me/butterswap_arabic)\*\*\*\*
 
 **✈️ Telegram Group \(Indonesia 🇮🇩\):** [**https://t.me/butterswap\_id**](https://t.me/butterswap_id)\*\*\*\*
 {% endhint %}
