@@ -4,9 +4,9 @@ Dear Chefs:
 
 👩‍🍳 Butter is yummy, but who is top BUTTER chef? Let's find out.
 
-⏰ Start time: 00:00 AM GMT+8, July 9, 2021
+⏰ Start time: 00:00 AM GMT+8, July 19, 2021
 
-⏰ End time: 00:00 AM GMT+8, July 16, 2021
+⏰ End time: 00:00 AM GMT+8, July 26, 2021
 
 
 
