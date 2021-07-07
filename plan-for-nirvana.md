@@ -18,6 +18,8 @@ We will take snapshot of every LP and every staking. Trust blockchain, informati
 
 We will deploy everything in new smart contracts and issue new BUTTER tokens. We pre-mint all the previous valid BUTTER amount and lock it in a cold-wallet protected address.
 
+**Update:** We issued a new BUTTER token and we pre-mint 320,000,000 BUTTER representing total supply before accident. The new BUTTER contract address is 0xbf84214ea409A369774321727595F218889eD943.
+
 ### Step 3 Open exchange and liquidity
 
 We will then open exchange and liquidity. We will add liquidity there ourselves. And supporters can also add liquidity there at your own wish
