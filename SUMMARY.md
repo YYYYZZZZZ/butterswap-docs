@@ -5,6 +5,7 @@
 * [🔒 Audit](audit.md)
 * [📑 Smart Contracts](smart-contracts.md)
 * [☎️ Contact](contact.md)
+* [🦅 Plan for Nirvana](plan-for-nirvana.md)
 
 ## Community
 
