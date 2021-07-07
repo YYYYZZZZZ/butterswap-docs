@@ -10,6 +10,10 @@ Here is the our current plan:
 
 We will provide website for you guys to unstake non-BUTTER LP from old farms and you can unstake LP to get back your tokens pairs, such as BUT/USDT, HT/USDT. Only for non-BUTTER related LP pairs. For these investors, you do not have any loss.
 
+{% hint style="success" %}
+Unstake non-BUTTER related LPs from farm here [https://1.butterswap.me/](https://1.butterswap.me/)
+{% endhint %}
+
 ### Step 1 Take snapshot
 
 We will take snapshot of every LP and every staking. Trust blockchain, information is permanent and we can always get the information accurately.
