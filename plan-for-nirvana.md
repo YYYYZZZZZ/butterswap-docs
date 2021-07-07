@@ -38,7 +38,7 @@ Do not buy the new BUTTER when the price is too high, otherwise you may suffer f
 
 ### Step 3 Open exchange and liquidity
 
-We will then open exchange and liquidity. We will add liquidity there ourselves. And supporters can also add liquidity there at your own wish
+We will then open exchange and liquidity. We will add liquidity there ourselves. And supporters can also add liquidity there at your own wish.
 
 {% hint style="info" %}
 Working on it, expected in a few hours.
