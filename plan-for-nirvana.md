@@ -18,6 +18,10 @@ Unstake non-BUTTER related LPs from farm here [https://1.butterswap.me/](https:/
 
 We will take snapshot of every LP and every staking. Trust blockchain, information is permanent and we can always get the information accurately.
 
+{% hint style="warning" %}
+In progress, 30% complete
+{% endhint %}
+
 ### Step 2 Deploy new contracts and pre-mint
 
 We will deploy everything in new smart contracts and issue new BUTTER tokens. We pre-mint all the previous valid BUTTER amount and lock it in a cold-wallet protected address.
