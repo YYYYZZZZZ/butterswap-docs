@@ -6,6 +6,10 @@ Second, past is past. We will stand up again and have our nirvana!
 
 Here is the our current plan:
 
+### Step 0 Open portal for non-BUTTER farm and LP.
+
+We will provide website for you guys to unstake non-BUTTER LP from old farms and you can unstake LP to get back your tokens pairs, such as BUT/USDT, HT/USDT. Only for non-BUTTER related LP pairs. For these investors, you do not have any loss.
+
 ### Step 1 Take snapshot
 
 We will take snapshot of every LP and every staking. Trust blockchain, information is permanent and we can always get the information accurately.
@@ -28,11 +32,11 @@ We will gradually give back your token pairs contained in the LPs and your stake
 
 ### Step 6 Old board member compensation
 
-We are sorry that you have to participate board all over again, if you still choose to support us after this accident. No matter you re-enter board or not, first, you will get every BUTTER you staked previously. But not at once, we will give them back to you over some time. Hope you understand that this will give positive effects for BUTTER price and is also of your interest. After this, and after we stabilize our operation, we will have plans to compensate board members. 
+We will keep board membership and your board entering time. You will get every BUTTER you staked previously. But not at once, we will give them back to you over some time. Hope you understand that this will give positive effects for BUTTER price and is also of your interest. After this, and after we stabilize our operation, we will have plans to compensate board members. 
 
 ### Step 7 Every supporter compensation
 
-We will also compensate every BUTTER holder that has not benefited from this accident. If you have benefited from this accident, please contact us and return the extra benefits and we will give you more in the long term if we stand back again!
+We will also compensate every BUTTER holder that has not benefited from this accident. If you have benefited from this accident, please contact us \(hi@butterswap.me\) and return the extra benefits and we will give you more in the long term if we stand back again!
 
 We are hoping to reboot the whole system within 3 days and we hope to give back everything belonging to you within 2 weeks!
 
