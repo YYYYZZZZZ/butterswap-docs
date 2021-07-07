@@ -1,6 +1,6 @@
 # 🦅 Plan for Nirvana
 
-First of all, we feel very bad to disappoint every supporter in this way due to one of engineer's unacceptable mistake.
+First of all, we feel very bad to disappoint every supporter in this way due to our unacceptable mistake.
 
 Second, past is past. We will stand up again and have our nirvana!
 
