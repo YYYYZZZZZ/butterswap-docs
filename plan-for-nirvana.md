@@ -54,7 +54,7 @@ Rely on step 1, need more time.
 
 ### Step 5 Give back what you had
 
-We will gradually give back your token pairs contained in the LPs and your staked BUTTERs in different batches. Sorry that we are not able to return everything in 100%, but we will try our best to speed up our pace. Once you get back your LP, you can either farm or unstake LP to get back your tokens. We will give back your staked BUTTER gradually, also in batches. Hope you understand that we don't want panic sell, this makes everyone to lose profit. So we will control the pace to guarantee a healthy development.
+We will gradually give back your token pairs contained in the LPs and your staked BUTTERs in different batches. Sorry that we are not able to return everything in 100%, but we will try our best to speed up our pace. For LP in the farms, you will get the paired tokens respectively, for example, if you staked BUTTER/UST, you will get both BUTTER and USDT back. For staked BUTTER, we will give back your staked BUTTER gradually, also in batches. Hope you understand that we don't want panic sell, this makes everyone to lose profit. So we will control the pace to guarantee a healthy development.
 
 ### Step 6 Old board member compensation
 
