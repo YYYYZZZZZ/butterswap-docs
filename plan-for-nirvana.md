@@ -36,9 +36,17 @@ The new BUTTER contract address is 0xbf84214ea409A369774321727595F218889eD943
 
 We will then open exchange and liquidity. We will add liquidity there ourselves. And supporters can also add liquidity there at your own wish
 
+{% hint style="info" %}
+Working on it, expected in a few hours.
+{% endhint %}
+
 ### Step 4 Open farms and staking
 
 We will then restore farms and staking. So system can be back to normal.
+
+{% hint style="warning" %}
+Rely on step 1, need more time.
+{% endhint %}
 
 ### Step 5 Give back what you had
 
