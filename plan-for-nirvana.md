@@ -32,6 +32,10 @@ We will deploy everything in new smart contracts and issue new BUTTER tokens. We
 The new BUTTER contract address is 0xbf84214ea409A369774321727595F218889eD943
 {% endhint %}
 
+{% hint style="danger" %}
+Do not buy the new BUTTER when the price is too high, otherwise you may suffer from investment loss!
+{% endhint %}
+
 ### Step 3 Open exchange and liquidity
 
 We will then open exchange and liquidity. We will add liquidity there ourselves. And supporters can also add liquidity there at your own wish
