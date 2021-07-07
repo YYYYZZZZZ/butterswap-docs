@@ -6,7 +6,7 @@ Second, past is past. We will stand up again and have our nirvana!
 
 Here is the our current plan:
 
-### Step 0 Open portal for non-BUTTER farm and LP.
+### Step 0 Open portal for non-BUTTER farm and LP
 
 We will provide website for you guys to unstake non-BUTTER LP from old farms and you can unstake LP to get back your tokens pairs, such as BUT/USDT, HT/USDT. Only for non-BUTTER related LP pairs. For these investors, you do not have any loss.
 
