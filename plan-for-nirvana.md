@@ -32,7 +32,7 @@ We will gradually give back your token pairs contained in the LPs and your stake
 
 ### Step 6 Old board member compensation
 
-We will keep board membership and your board entering time. You will get every BUTTER you staked previously. But not at once, we will give them back to you over some time. Hope you understand that this will give positive effects for BUTTER price and is also of your interest. After this, and after we stabilize our operation, we will have plans to compensate board members. 
+We will keep board membership and your board entering time. You will get every BUTTER you staked previously. But not at once, we will give them back to you over some time. Hope you understand that this will give positive impact for BUTTER price and is also of your interest. After this, and after we stabilize our operation, we will have plans to compensate board members. 
 
 ### Step 7 Every supporter compensation
 
