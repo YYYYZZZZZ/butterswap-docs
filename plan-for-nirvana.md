@@ -19,7 +19,7 @@ Unstake non-BUTTER related LPs from farm here [https://1.butterswap.me/](https:/
 We will take snapshot of every LP and every staking. Trust blockchain, information is permanent and we can always get the information accurately.
 
 {% hint style="warning" %}
-In progress, 30% complete
+In progress, 50% complete
 {% endhint %}
 
 ### Step 2 Deploy new contracts and pre-mint
@@ -40,8 +40,8 @@ Do not buy the new BUTTER when the price is too high, otherwise you may suffer f
 
 We will then open exchange and liquidity. We will add liquidity there ourselves. And supporters can also add liquidity there at your own wish.
 
-{% hint style="info" %}
-Working on it, expected in a few hours.
+{% hint style="success" %}
+Exchange and liquidity is open now!
 {% endhint %}
 
 ### Step 4 Open farms and staking
