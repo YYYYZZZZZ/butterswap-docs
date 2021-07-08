@@ -22,6 +22,8 @@ We will take snapshot of every LP and every staking. Trust blockchain, informati
 In progress, 50% complete
 {% endhint %}
 
+We've collected most of the address that has assets in ButterSwap, please check if your address is corrected listed. If we miss any address, please submit by the top button here [https://butterswap.me/address](https://t.co/YBvZS7htVK?amp=1)
+
 ### Step 2 Deploy new contracts and pre-mint
 
 We will deploy everything in new smart contracts and issue new BUTTER tokens. We pre-mint all the previous valid BUTTER amount and lock it in a cold-wallet protected address.
