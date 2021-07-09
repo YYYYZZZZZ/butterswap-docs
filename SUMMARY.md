@@ -12,8 +12,8 @@
 * [✈️ Airdrop](community/airdrop.md)
 * [👬 Referral \(beta, in plan\)](community/referral-in-plan.md)
 * [👨‍💻‍ AMA](community/ama/README.md)
-  * [🇦🇪 AMA with Crypto Titan's \(Middle East\)](community/ama/ama-with-crypto-titans-middle-east.md)
   * [🇮🇩 AMA with IDCRYPTO \(Indonesia\)](community/ama/ama-with-idcrypto.md)
+  * [🇦🇪 AMA with Crypto Titan's \(Middle East\)](community/ama/ama-with-crypto-titans-middle-east.md)
   * [🇻🇳 AMA with Bear King \(Vietnam\)](community/ama/ama-with-bear-king.md)
 * [👨‍🍳 Top Butter Chef Contest \(Postponded\)](community/top-butter-chef-contest.md)
 
