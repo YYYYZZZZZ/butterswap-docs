@@ -12,6 +12,8 @@ BUTTER is minted as block number increases. In the future, reward per block may 
 
 | Time | Metric | BUTTER |
 | :--- | :--- | :--- |
+| 2021-7-10 ~ | Reward per block | 240 |
+| 2021-7-7 ~ 2021-7-10 | Reward per block | 0 \(the ACCIDENT\) |
 | 2021-6-16 ~ 2021-7-7 | Reward per block | 480 |
 
 0.05% of all transaction fee in ButterSwap's exchange will be collected in ButterSwap treasury, which will all be used to buy back BUTTER and burn, and for community growth. You can view the detailed BUTTER burn schedule [here](https://docs.butterswap.me/tokenomics/butter-burn).
