@@ -29,7 +29,7 @@
 
 **✈️ Telegram Group \(Vietnam 🇻🇳\):** [**https://t.me/butterswap\_vn**](https://t.me/butterswap_vn)\*\*\*\*
 
-**✈️ Telegram Group \(Vietnam 🌎\):** [**https://t.me/butterswap\_spanish**](https://t.me/butterswap_spanish)\*\*\*\*
+**✈️ Telegram Group \(Spanish 🌎\):** [**https://t.me/butterswap\_spanish**](https://t.me/butterswap_spanish)\*\*\*\*
 {% endhint %}
 
 {% hint style="success" %}
