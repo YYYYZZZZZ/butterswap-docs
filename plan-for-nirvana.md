@@ -19,7 +19,7 @@ Unstake non-BUTTER related LPs from farm here [https://1.butterswap.me/](https:/
 We will take snapshot of every LP and every staking. Trust blockchain, information is permanent and we can always get the information accurately.
 
 {% hint style="warning" %}
-In progress, 75% complete
+In progress, 80% complete
 {% endhint %}
 
 We've collected most of the address that has assets in ButterSwap, please check if your address is corrected listed. If we miss any address, please submit by the top button here [https://butterswap.me/address](https://t.co/YBvZS7htVK?amp=1)
@@ -50,8 +50,8 @@ Exchange and liquidity is open now!
 
 We will then restore farms and staking. So system can be back to normal.
 
-{% hint style="warning" %}
-Relaunching soon.
+{% hint style="success" %}
+Relaunched new BUTTER farms and CREAM pools.
 {% endhint %}
 
 For all users that have staked old BUTTER previously, we will have a new cold wallet protected address to manage all new BUTTERs.
