@@ -79,7 +79,7 @@ Below is the list of addresses we processed in batch 1.
 #### What should I do if my address is not in batch 1?
 
 1. Check [https://butterswap.me/address](https://t.co/YBvZS7htVK?amp=1) and see if your address is correctly included, if not, add it there.
-2. Wait for our next batch. HECO chain full node synchronization is really slow. Once we have sync the HECO full node with complete block information, we will release tokens for your wallet in the new batch. We will make sure you catch up with others. For example, your released amount will be equal to the existing address's history total release.
+2. Wait for our next batch. HECO chain full node synchronization is really slow. Once we have synced the HECO full node with complete block information, we will release tokens for your wallet in the new batch. We will make sure you catch up with others. For example, your released amount will be equal to the existing address's history total release.
 
 ### Step 6 Old board member compensation
 
