@@ -68,6 +68,19 @@ We will compound periodically in this account and all BUTTER earnings will be sh
 
 We will gradually give back your token pairs contained in the LPs and your staked BUTTERs in different batches. Sorry that we are not able to return everything in 100%, but we will try our best to speed up our pace. For LP in the farms, you will get the paired tokens respectively, for example, if you staked BUTTER/USDT, you will get both BUTTER and USDT back. For staked BUTTER, we will give back your staked BUTTER gradually, also in batches. Hope you understand that we don't want panic sell, this makes everyone to lose profit. So we will control the pace to guarantee a healthy development.
 
+{% hint style="success" %}
+We released our first batch in July 10, 2021. LP are unstaked to be the pair of tokens and sent to you respectively. Staked BUTTER is also returned. We will start a new batch early next week.
+{% endhint %}
+
+Below is the list of addresses we processed in batch 1.
+
+{% file src=".gitbook/assets/batch1\_address.txt" caption="Wallet Addresses included in Batch 1" %}
+
+#### What should I do if my address is not in batch 1?
+
+1. Check [https://butterswap.me/address](https://t.co/YBvZS7htVK?amp=1) and see if your address is correctly included, if not, add it there.
+2. Wait for our next batch. HECO chain full node synchronization is really slow. Once we have sync the HECO full node with complete block information, we will release tokens for your wallet in the new batch. We will make sure you catch up with others. For example, your released amount will be equal to the existing address's history total release.
+
 ### Step 6 Old board member compensation
 
 We will keep board membership and your board entering time. You will get every BUTTER you staked previously. But not at once, we will give them back to you over some time. Hope you understand that this will give positive impact for BUTTER price and is also of your interest. After this, and after we stabilize our operation, we will have plans to compensate board members. 
