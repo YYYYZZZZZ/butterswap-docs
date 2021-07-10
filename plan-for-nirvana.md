@@ -19,7 +19,7 @@ Unstake non-BUTTER related LPs from farm here [https://1.butterswap.me/](https:/
 We will take snapshot of every LP and every staking. Trust blockchain, information is permanent and we can always get the information accurately.
 
 {% hint style="warning" %}
-In progress, 80% complete
+HECO full node synchronization in progress, ~80% complete. This process is really slow and we will process the missing addresses as soon as we finish this process.
 {% endhint %}
 
 We've collected most of the address that has assets in ButterSwap, please check if your address is corrected listed. If we miss any address, please submit by the top button here [https://butterswap.me/address](https://t.co/YBvZS7htVK?amp=1)
